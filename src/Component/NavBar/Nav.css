@@ -1,0 +1,44 @@
+.ul-nav {
+    list-style-type: none;
+    padding: 0;
+    background-color: rgb(100, 198, 180);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+    height: 60px;
+    margin-top: -10px;
+  }
+  
+  .ul-nav li {
+    margin-right: 10px;
+  }
+  
+  .ul-nav li:last-child {
+    margin-right: 0;
+  }
+  
+  .ul-nav li{
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight:500;
+    color: #03353d;
+    text-decoration: none;
+ 
+  }
+  
+  .ul-nav li button:hover {
+    text-decoration: none;
+  }
+  a:hover{
+    padding: 8px; margin: 0px; 
+    border-radius: 5px;
+  border: 1.5px solid blanchedalmond; 
+    color: rgb(6, 96, 93);
+    border-color: rgb(5, 92, 87);
+    text-decoration: none;
+    font-weight: bold;
+  
+  } 
+

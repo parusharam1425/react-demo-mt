@@ -1,0 +1,13 @@
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 15vh;
+    background-color:#b2dddb;
+  }
+  
+  
+  .section{
+    min-height: 50vh;
+    background-color: rgb(246, 239, 239);
+  }
